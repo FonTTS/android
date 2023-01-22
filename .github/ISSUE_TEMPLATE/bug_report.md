@@ -1,38 +1,30 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Let us know that something isn't working as intended
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- This is a bug report template. By following the instructions below and filling out the sections with your information, you will help the developers get all the necessary data to fix your issue.
+You can also preview your report before submitting it. You may remove sections that aren't relevant to your particular case.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Bug description
+Describe here the issue that you are experiencing.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Steps to reproduce
+- using hyphens as bullet points
+- list the steps
+- that reproduce the bug
+ 
+**Actual result:** Describe here what happens after you run the steps above (i.e. the buggy behaviour)
+**Expected result:** Describe here what should happen after you run the steps above (i.e. what would be the correct behaviour)
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Device info
+<!-- replace the examples with your info -->
+**Device:** Manufacturer Model XVI
+**Android version:** 0.0.0
+**FonTTS version:** 0.0.0
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
